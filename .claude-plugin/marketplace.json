@@ -8,6 +8,14 @@
   },
   "plugins": [
     {
+      "name": "css-pro",
+      "description": "Comprehensive CSS development toolkit with specialist agents, interactive skills, and powerful commands for modern CSS development",
+      "source": {
+        "source": "github",
+        "repo": "andronics/claude-plugin-css-pro"
+      }
+    },
+    {
       "name": "typescript-pro",
       "description": "Comprehensive TypeScript development toolkit with specialized agents, commands, skills, and hooks for end-to-end TypeScript project lifecycle management",
       "source": {
