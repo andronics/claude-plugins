@@ -4,6 +4,9 @@
 			"path": "."
 		},
 		{
+			"path": "../claude-plugin-css-pro"
+		},
+		{
 			"path": "../claude-plugin-typescript-pro"
 		}
 	],
