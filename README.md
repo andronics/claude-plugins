@@ -36,7 +36,7 @@ To use plugins from this marketplace, you need to have [Claude Code](https://cla
 ### Via Marketplace
 
 ```bash
-claude-code plugin install andronics/<plugin-name>
+claude-code plugin install andronics/claude-plugin-<plugin-name>
 ```
 
 ### Manual Installation
