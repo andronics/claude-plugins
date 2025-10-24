@@ -1,0 +1,19 @@
+{
+  "name": "andronics",
+  "version": "1.0.0",
+  "description": "Andronics Claude Plugin Marketplace",
+  "owner": {
+    "name": "Andronics Team",
+    "email": "team@andronics.io"
+  },
+  "plugins": [
+    {
+      "name": "typescript-pro",
+      "description": "Comprehensive TypeScript development toolkit with specialized agents, commands, skills, and hooks for end-to-end TypeScript project lifecycle management",
+      "source": {
+        "source": "github",
+        "repo": "andronics/claude-plugin-typescript-pro"
+      }
+    }
+  ]
+}

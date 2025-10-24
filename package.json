@@ -1,0 +1,23 @@
+{
+  "name": "@andronics/claude-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code Marketspace with specialized pugins containing agents, commands, skills, and hooks covering the full development lifecycle",
+  "type": "module",
+  "author": {
+    "name": "Andronics Team"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "marketplace"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/andronics/claude-plugins#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andronics/claude-plugins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andronics/claude-plugins/issues"
+  }
+}

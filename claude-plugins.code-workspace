@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../claude-plugin-typescript-pro"
+		}
+	],
+	"settings": {}
+}
