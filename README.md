@@ -24,7 +24,7 @@ Comprehensive TypeScript development toolkit for Claude Code with specialized ag
 **Installation:**
 ```bash
 # Install via Claude Code
-claude-code plugin install andronics/typescript-pro
+claude-code plugin install andronics/claude-plugin-typescript-pro
 ```
 
 **Repository:** [andronics/claude-plugin-typescript-pro](https://github.com/andronics/claude-plugin-typescript-pro)
